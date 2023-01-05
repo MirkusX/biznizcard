@@ -1,9 +1,15 @@
-import { StyledDiv, StyledSection } from "../Components/StyledComponents";
+import {
+  StyledDiv,
+  StyledImageDiv,
+  StyledSection,
+} from "../Components/StyledComponents";
+import biznizcard from "../images/biznizcard.avif";
 
 export const Frontpage = () => {
   return (
     <StyledSection>
       <StyledDiv>
+        <img src={biznizcard} />
         <h1>Example name</h1>
         <p>Examplejob</p>
         <p>website</p>
