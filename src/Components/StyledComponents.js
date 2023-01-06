@@ -13,6 +13,7 @@ export const StyledSection = styled.section`
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 3em;
 `;
 
 export const StyledImg = styled.img`
@@ -21,6 +22,7 @@ export const StyledImg = styled.img`
 
 export const StyledImgDiv = styled.div`
   background-image: url(${biznizcard});
-  height: 25em;
-  background-position: 60% 25%;
+  height: 20em;
+  background-position: 60% 20%;
+  border-radius: 10px 10px 0 0;
 `;
