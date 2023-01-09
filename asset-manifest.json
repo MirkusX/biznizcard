@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/biznizcard/static/css/main.073c9b0a.css",
+    "main.js": "/biznizcard/static/js/main.927568ba.js",
+    "static/js/787.be299ac3.chunk.js": "/biznizcard/static/js/787.be299ac3.chunk.js",
+    "static/media/biznizcard.avif": "/biznizcard/static/media/biznizcard.43f9db34e758a3fff808.avif",
+    "static/media/logo.svg": "/biznizcard/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/biznizcard/index.html",
+    "main.073c9b0a.css.map": "/biznizcard/static/css/main.073c9b0a.css.map",
+    "main.927568ba.js.map": "/biznizcard/static/js/main.927568ba.js.map",
+    "787.be299ac3.chunk.js.map": "/biznizcard/static/js/787.be299ac3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.927568ba.js"
+  ]
+}
