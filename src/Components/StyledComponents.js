@@ -14,6 +14,9 @@ export const StyledDiv = styled.div`
   width: 25%;
   border-radius: 10px;
   color: white;
+  @media (max-width: 811px) {
+    width: 100%;
+  }
 `;
 
 export const StyledSection = styled.section`
@@ -30,6 +33,7 @@ export const StyledImgDiv = styled.div`
   height: 20em;
   background-position: 60% 20%;
   border-radius: 10px 10px 0 0;
+  background-size: cover;
 `;
 
 export const StyledButton = styled.a`
